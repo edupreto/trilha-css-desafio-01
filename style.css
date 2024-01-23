@@ -8,6 +8,7 @@
 .banner {
     display: flex;
     justify-content: center;
+    width: 
     background: linear-gradient(#FFF 60%, #31A8DD 40%);
     background-image: url('assets/images/banner.png');
 }
