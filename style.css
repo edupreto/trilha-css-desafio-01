@@ -4,7 +4,7 @@
     border: 0;
     vertical-align: baseline;
     list-style: none;
-    background: #000;
+
 }
 
 .banner {
@@ -13,7 +13,7 @@
     width: 1440px;
     height: 605px;
     border-bottom: 1px solid #31A8DD;
-    background: linear-gradient(#000 60%, #31A8DD);
+    background: linear-gradient(0deg, #000 60%, #31A8DD);
 
 
 }
