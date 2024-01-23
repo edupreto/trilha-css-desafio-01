@@ -9,7 +9,9 @@
 .banner {
     display: flex;
     justify-content: center;
-    width:
+    width: 1440px;
+    height: 605px;
+    border-bottom: 1px solid #31A8DD;
     background: linear-gradient(#FFF 60%, #31A8DD 40%);
     background-image: url('assets/images/banner.png');
 }
