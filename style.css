@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
     border: 0;
-    background-color: #000;
 }
 
 .banner {
-    background-image:
+    background-color: #000;
+    background-image: url('assets/images/banner.png');
 }
