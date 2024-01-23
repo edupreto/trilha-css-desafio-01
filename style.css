@@ -6,6 +6,6 @@
 }
 
 .banner {
-    background: linear-gradient(#000 60%, #31A8DD 40%);
+    background: linear-gradient(#FFF 60%, #31A8DD 40%);
     background-image: url('assets/images/banner.png');
 }
