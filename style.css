@@ -6,6 +6,10 @@
     list-style: none;
 }
 
+body {
+    background-color: black;
+}
+
 .banner {
     display: flex;
     justify-content: center;
