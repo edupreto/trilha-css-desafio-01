@@ -2,10 +2,12 @@
     margin: 0;
     padding: 0;
     border: 0;
-    background-color: #000;
+
 }
 
 .banner {
+    display: flex;
+    justify-content: center;
     background: linear-gradient(#FFF 60%, #31A8DD 40%);
     background-image: url('assets/images/banner.png');
 }
