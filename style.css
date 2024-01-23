@@ -12,6 +12,6 @@
     width: 1440px;
     height: 605px;
     border-bottom: 1px solid #31A8DD;
-    background: linear-gradient(#000 60%, #31A8DD 40%);
+    background: linear-gradient(#000 60%, #31A8DD);
     background-image: url('assets/images/banner.png');
 }
