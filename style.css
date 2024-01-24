@@ -7,6 +7,7 @@
     vertical-align: baseline;
     list-style: none;
     font-family: Raleway;
+    color: gray;
 }
 
 body {
@@ -33,5 +34,5 @@ body {
 h1 {
     font-weight: bold;
     text-transform: uppercase;
-    color: white;
+
 }
