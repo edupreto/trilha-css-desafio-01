@@ -30,7 +30,7 @@ section {
     border-bottom: 1px solid #33A8DB;
 }
 
-.banner-content {
+.banner .banner-content {
     width: 515px;
     display: flex;
     flex-direction: column;
