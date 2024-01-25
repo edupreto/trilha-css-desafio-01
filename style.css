@@ -110,13 +110,7 @@ section {
 }
 
 .modules-list {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-
-
+    margin: 22px 0;
 }
 
 .module {
