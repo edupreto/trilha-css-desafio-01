@@ -18,6 +18,14 @@ section {
     margin: 100px auto;
   }
 
+  p {
+    color: #ffffff;
+  }
+
+  h2 {
+    color: #33A8DB;
+  }
+
 .banner {
     display: flex;
     justify-content: center;
