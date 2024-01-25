@@ -7,7 +7,7 @@
     vertical-align: baseline;
     list-style: none;
     font-family: Raleway;
-    color: gray;
+    box-sizing: border-box;
 }
 
 body {
