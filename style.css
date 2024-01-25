@@ -41,6 +41,12 @@ h1 {
     font-size: 40px;
     font-weight: bold;
     text-transform: uppercase;
+
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
     padding: 16px;
 
 }
