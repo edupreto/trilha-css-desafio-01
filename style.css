@@ -25,7 +25,7 @@ body {
 .banner-content {
     border: 1px solid red;
 
-    width: 520px;
+    width: 515px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -46,9 +46,10 @@ body {
 .banner-content p {
     font-weight: regular;
     color: #ffffff;
-    text-align: justify;
+    text-align: center;
 
     font-size: 1.25rem;
     margin: 16px 0 24px;
-
 }
+
+
