@@ -38,6 +38,10 @@ section {
     align-items: center;
 }
 
+.banner .banner-content img {
+    width: 248px;
+}
+
 .banner .banner-content h1 {
     font-size: 2.5rem;
     font-weight: 800;
