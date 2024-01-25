@@ -37,7 +37,6 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 
 .banner .logo {
@@ -45,9 +44,7 @@ section {
     height: 260px;
     width: 260px;
     border-radius: 50%;
-
-
-  }
+}
 
 .banner .logo img {
     margin: auto;
@@ -60,7 +57,6 @@ section {
     font-size: 2.5rem;
     font-weight: 800;
     text-transform: uppercase;
-
     background: -webkit-linear-gradient(rgb(51,168,219), rgb(20,114,183));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -68,10 +64,8 @@ section {
 }
 
 .banner .banner-content p {
-
     color: #ffffff;
     text-align: center;
-
     font-size: 1.25rem;
     margin: 16px 0 24px;
 }
@@ -84,10 +78,12 @@ section {
     text-transform: uppercase;
     letter-spacing: 4px;
     background-color: transparent;
-    border: solid 1px;
+    border: solid 2px;
     border-image: linear-gradient(#3BA1CD, #1572B7);
     border-image-slice: 10;
-
 }
+
+
+
 
 
