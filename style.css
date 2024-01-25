@@ -23,18 +23,13 @@ body {
 }
 
 .banner-content {
-
     border: 1px solid red;
 
     width: 520px;
-
-
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
-    padding-bottom: 16px;
 }
 
 .banner-content h1 {
@@ -45,12 +40,10 @@ body {
     background: -webkit-linear-gradient(rgb(51,168,219), rgb(20,114,183));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
     padding: 16px;
 }
 
 .banner-content p {
-    font-size: 20px;
     font-weight: regular;
     color: #ffffff;
     text-align: center;
