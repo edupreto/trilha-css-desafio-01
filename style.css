@@ -114,7 +114,10 @@ section {
 }
 
 .module-list .module {
-    
+    width: 535px;
+    height: 51px;
+    background-color: #252525;
+    font-size: 1rem;
 }
 
 
