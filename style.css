@@ -31,8 +31,6 @@ section {
 }
 
 .banner-content {
-    border: 1px solid red;
-
     width: 515px;
     display: flex;
     flex-direction: column;
@@ -71,7 +69,7 @@ section {
     border: solid 1px;
     border-image: linear-gradient(#3BA1CD, #1572B7);
     border-image-slice: 10;
-    
+
 }
 
 
