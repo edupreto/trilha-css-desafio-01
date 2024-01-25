@@ -39,7 +39,12 @@ section {
 }
 
 .banner .banner-content .logo img {
-    width: 248px;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+
+    border: solid 1px white;
 }
 
 .banner .banner-content h1 {
