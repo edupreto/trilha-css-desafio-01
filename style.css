@@ -119,8 +119,7 @@ section {
 
 }
 
-.module {
-
+module {
     width: 535px;
     height: 51px;
     background-color: #252525;
@@ -133,6 +132,17 @@ section {
     border-image: linear-gradient(#3BA1CD, #1572B7);
     border-image-slice: 10;
     border-radius: 50px;
+}
+
+.module {
+    color: white;
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #33A8DB;
+    background-color: #252525;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
 }
 
 
