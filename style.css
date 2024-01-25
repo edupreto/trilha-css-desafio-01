@@ -68,6 +68,7 @@ section {
     text-transform: uppercase;
     letter-spacing: 4px;
     background-color: transparent;
+    border: solid 1px;
     border-image: linear-gradient(#3BA1CD, #1572B7);
     border-image-slice: 10;
     border-radius: 30px;
