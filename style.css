@@ -23,7 +23,12 @@ body {
 }
 
 .banner-content {
+
     border: 1px solid red;
+
+    width:
+
+
     display: flex;
     flex-direction: column;
 
