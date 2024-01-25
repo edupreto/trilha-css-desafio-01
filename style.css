@@ -94,8 +94,11 @@ section {
 
 #course-content {
     width: 792px;
+    height: 325px;
+    text-align: center;
+    align-items: center;
     margin: auto;
-    padding: 24px;
+
 }
 
 
