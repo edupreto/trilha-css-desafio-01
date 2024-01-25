@@ -62,7 +62,7 @@ section {
 
 .button {
     border: 1px solid;
-    border-color: -webkit-linear-gradient(rgb(51,168,219), rgb(20,114,183));
+    border-image-source: linear-gradient(to left, #00C853, #B2FF59);
 }
 
 
