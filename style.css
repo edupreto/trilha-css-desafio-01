@@ -46,7 +46,9 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
-
     padding: 16px;
+}
 
+.banner-content p {
+    
 }
