@@ -60,7 +60,7 @@ section {
     margin: 16px 0 24px;
 }
 
-.button {
+.banner .banner-content button {
     border: 1px solid;
     border-image-source: linear-gradient(to left, #00C853, #B2FF59);
 }
