@@ -64,11 +64,11 @@ section {
     background: -webkit-linear-gradient(rgb(51,168,219), rgb(20,114,183));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    padding: 16px;
+    padding-top: 16px;
 }
 
 .banner .banner-content p {
-    font-weight: regular;
+
     color: #ffffff;
     text-align: center;
 
