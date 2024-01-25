@@ -61,7 +61,7 @@ section {
 }
 
 .button {
-    border: 1px solid webkit-linear-gradient(rgb(51,168,219), rgb(20,114,183));
+    border: 1px solid -webkit-linear-gradient(rgb(51,168,219), rgb(20,114,183));
 }
 
 
