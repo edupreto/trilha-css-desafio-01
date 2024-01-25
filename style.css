@@ -114,10 +114,12 @@ section {
 }
 
 .module {
-    color: #ffffff;
+
     width: 535px;
     height: 51px;
     background-color: #252525;
+
+    color: #ffffff;
     font-size: 1rem;
     border: solid 1px;
     border-image: linear-gradient(#3BA1CD, #1572B7);
