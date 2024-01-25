@@ -26,7 +26,7 @@ body {
 
     border: 1px solid red;
 
-    width: 600px;
+    width: 520px;
 
 
     display: flex;
@@ -57,5 +57,5 @@ body {
 
     font-size: 1.25rem;
     margin: 16px 0 24px;
-      
+
 }
