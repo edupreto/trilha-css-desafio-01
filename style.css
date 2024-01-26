@@ -16,20 +16,20 @@ body {
 
 section {
     margin: 100px auto;
-  }
+}
 
-  p {
+p {
     color: #ffffff;
-  }
+}
 
-  h2 {
+h2 {
     color: #33A8DB;
     font-size: 2rem;
     font-weight: bold;
     letter-spacing: 4px;
     text-transform: uppercase;
     margin-bottom: 24px
-  }
+}
 
 .banner {
     display: flex;
