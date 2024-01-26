@@ -106,7 +106,7 @@ section {
 }
 
 #course-content h2 {
-    padding-top: 120px;
+    padding: 120px 0 16px;
 }
 
 .modules-list {
