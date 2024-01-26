@@ -103,10 +103,11 @@ section {
     text-align: center;
     align-items: center;
     margin: auto;
+    padding: 120px;
 }
 
 #course-content h2 {
-    
+
 }
 
 .modules-list {
