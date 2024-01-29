@@ -102,7 +102,7 @@ h2 {
     text-align: center;
     align-items: center;
     margin: auto;
-    
+    padding: 120px 0 90px;
 }
 
 .module {
@@ -125,7 +125,7 @@ h2 {
   }
 
 
-  #transform-world {
+#transform-world {
     height: 560px;
     background-size: cover;
     background-image: url(assets/images/woman-code.png);
@@ -133,43 +133,38 @@ h2 {
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
     padding: 200px;
-  }
+}
 
-
-  #transform-world p {
+#transform-world p {
     font-weight: 900;
     font-size: 2.5rem;
     text-transform: lowercase;
     max-width: 250px;
     text-shadow: 3px 2px #33A8DB;
-  }
+}
 
-  #professional-challenges {
+#professional-challenges {
     text-align: center;
     width: 800px;
-  }
+}
 
-  #professional-challenges img {
+#professional-challenges img {
     margin: 32px 0;
-  }
+}
 
-  footer {
+footer {
     padding: 60px 0;
     text-align: center;
     background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
     border-top: 1px solid #33A8DB80;
-  }
+}
 
-  footer .dio-logo {
+footer .dio-logo {
     width: 300px;
-  }
+}
 
-  footer a {
+footer a {
     color: #33A8DB;
     font-weight: bold;
     text-decoration: none;
-  }
-
-
-
-
+}
