@@ -99,11 +99,10 @@ h2 {
 
 #course-content {
     width: 792px;
-    height: 325px;
     text-align: center;
     align-items: center;
     margin: auto;
-    padding: 120px 0 90px;
+    
 }
 
 .module {
