@@ -121,6 +121,10 @@ h2 {
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
 }
 
+.modules-list .module span {
+    color: #33A8DB;
+  }
+
 
 
 
