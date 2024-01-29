@@ -106,10 +106,6 @@ h2 {
     padding: 120px 0 90px;
 }
 
-.modules-list {
-    margin: 22px 0;
-}
-
 .module {
     color: white;
     width: 530px;
@@ -119,6 +115,10 @@ h2 {
     padding: 16px;
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
+
+.modules-list {
+    margin: 22px 0;
 }
 
 .modules-list .module span {
